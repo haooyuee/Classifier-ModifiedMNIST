@@ -38,8 +38,8 @@ Configure the right environment, for example: Colab (which I use)
 
 step3:
 To reproduce the project, run the following notebooks in the given order and follow the annotations:
-    - `Logreg.ipynb`
-    - `TreeForest.ipynb` 
-    - `SVM.ipynb` 
-    - `ANN.ipynb` 
-    - `CNN.ipynb` 
+- `Logreg.ipynb`
+- `TreeForest.ipynb` 
+- `SVM.ipynb` 
+- `ANN.ipynb` 
+- `CNN.ipynb` 
