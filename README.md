@@ -11,21 +11,21 @@ Kaggle username:    shenghaoyue
 - Attachments include all method files(jupyter notebooks) and model files, except for the random forest its model file is too large.
 
 # contents
-├── Readme.md                   // help
-├── classification-of-mnist-digits  // dataset from the kaggle <--need additional download
-├── data_visualization.ipynb    
-├── Logreg.ipynb                // logistic regression
-|├── logreg0.1.json             // weight and bias for logreg
-|├── logreg0.01.json            // weight and bias for logreg
-|├── logreg3.json               // weight and bias for logreg
-├── TreeForest.ipynb            // decision tree; random forest
-|├── dtree.pickle               // model for decision tree
-├── SVM.ipynb                   // Support Vector Machines
-|├── SVM.pickle                 // model for SVM
-├── ANN.ipynb                   // ANN
-|├── ANN.h5                     // model for ANN
-├── CNN.ipynb                   // CNN
-|├── CNN.h5                     // model for CNN
+- Readme.md                   // help
+- classification-of-mnist-digits  // dataset from the kaggle <--need additional download
+- data_visualization.ipynb    
+- Logreg.ipynb                // logistic regression
+    - logreg0.1.json             // weight and bias for logreg
+    - logreg0.01.json            // weight and bias for logreg
+    - logreg3.json               // weight and bias for logreg
+- TreeForest.ipynb            // decision tree; random forest
+    - dtree.pickle               // model for decision tree
+- SVM.ipynb                   // Support Vector Machines
+    - SVM.pickle                 // model for SVM
+- ANN.ipynb                   // ANN
+    - ANN.h5                     // model for ANN
+- CNN.ipynb                   // CNN
+    - CNN.h5                     // model for CNN
 
 # How to run
 step1:
