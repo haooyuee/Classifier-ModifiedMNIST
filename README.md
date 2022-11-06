@@ -196,7 +196,6 @@ to let data with all the labels have the same amount.
 
     The table below shows the accuracy obtained by all methods tried:
 
-    ::: center
                 **Method**            **Training time**   **Kaggle Accuracy**
       ------------------------------ ------------------- ---------------------
            Logistic regression               \-                  0.214
@@ -205,7 +204,6 @@ to let data with all the labels have the same amount.
               Random Forest                3min7s                0.719
         Artificial Neural Network            42s                 0.870
        Convolutional Neural Network       15min23s               0.987
-    :::
 
 -   **Support Vector Machines:** I implement the SVM classifier with the
     SVC module of sklearn. In the prepossessing step, I used
