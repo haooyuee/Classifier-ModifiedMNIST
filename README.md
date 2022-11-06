@@ -1,8 +1,4 @@
 # IFT6390_Kaggle_Competition_1 - ShengHaoyue
-# Info
-Name:               Haoyue Sheng 
-Matricule:          20239178 
-Kaggle username:    shenghaoyue
 
 # Overview
 - Generate classifier to classify minist modifier image. All images are spotted from two original mnist images, and the size of the image is 56 × 28 and the label is the sum of the two mnist values, i.e. 0 to 18. 
