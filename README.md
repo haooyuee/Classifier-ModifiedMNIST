@@ -141,7 +141,6 @@ to let data with all the labels have the same amount.
     Convolutional Neural Network
 
 # Methodology
-
 -   **training/validation split:** Use 20% of the data set as the
     validation set. After each iteration, the program will calculate the
     loss and accuracy of the training set, then it also calculates the
@@ -197,7 +196,6 @@ to let data with all the labels have the same amount.
     The table below shows the accuracy obtained by all methods tried:
 
                 **Method**            **Training time**   **Kaggle Accuracy**
-      ------------------------------ ------------------- ---------------------
            Logistic regression               \-                  0.214
          Support Vector Machines             1h                  0.800
            Single Decision Tree            1min52s               0.374
