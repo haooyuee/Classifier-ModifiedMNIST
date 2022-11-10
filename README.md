@@ -1,4 +1,4 @@
-# IFT6390_Kaggle_Competition_1 - ShengHaoyue
+# IFT6390_Kaggle_Competition_1 
 
 # Overview
 - Generate classifier to classify minist modifier image. All images are spotted from two original mnist images, and the size of the image is 56 × 28 and the label is the sum of the two mnist values, i.e. 0 to 18. 
